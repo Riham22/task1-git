@@ -5,4 +5,6 @@ class HelloWorld{
     MyName=()=>{
         console.log("Riham");
     }
+    name="";
+    
 }
