@@ -7,5 +7,6 @@ class HelloWorld{
         console.log("Ruwainy");
     }
     name="";
+    age=0;
 
 }
